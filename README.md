@@ -1,5 +1,5 @@
 <h1 align="center">Hola, I'm Larissa Avila</h1>
-<h3 align="center">Frontend/UI Developer & HTML/CSS Ninja based in México.</h3>
+<h3 align="center">Frontend Developer & Technical Writer based in México.</h3>
 
 
 
