@@ -1,6 +1,8 @@
 <h1 align="center">Hola, I'm Larissa Avila</h1>
-<h3 align="center">Frontend Developer based in México.</h3>
-
+<h3 align="center">Frontend Engineer based in México.</h3>
+<p align="left">
+  With over 5 years of experience as a Frontend Developer and UX/UI Designer, I specialize in creating intuitive, user-centered interfaces that deliver both functionality and exceptional user experiences. </br>I combine technical expertise with a deep understanding of design principles to advocate for users at every stage of the digital journey.
+</p>
 
 
 <h3 align="left">Preferred Stack:</h3>
